@@ -11,7 +11,7 @@ import java.util.Collections;
 
 /**
  *
- * @author sr169
+ * @author sridivya
  */
 public class Deck {
     
@@ -44,6 +44,4 @@ public class Deck {
         System.out.println(deck.get(i));
        
     }
-    
-    
 }
