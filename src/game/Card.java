@@ -8,7 +8,7 @@ package game;
 
 /**
  *
- * @author sr169
+ * @author sridivya
  */
 public class Card {
     
